@@ -1,0 +1,1 @@
+console.log('Welocme to LWC Boot Camp')
